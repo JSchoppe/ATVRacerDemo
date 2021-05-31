@@ -27,7 +27,7 @@ With this project I am looking to further cement knowledge from the following ar
 - Tuning surface traction to create enjoyable surfaces to drive on
 - Implementing replays with deterministic physics
 
-An important design goal is focusing on fun gameplay pick up and play gameplay.
+An important design goal is focusing on fun pick up and play gameplay.
 Understanding vehicle simulation is a secondary goal, but realism should be limited/removed
 if it does not serve the gameplay.
 
